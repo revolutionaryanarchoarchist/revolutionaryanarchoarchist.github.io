@@ -1,1 +1,1 @@
-[quantum mechanics](quantum mechanics.md)
+[black body radiation](black body radiation.md)
